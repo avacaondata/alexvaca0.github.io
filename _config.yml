@@ -30,7 +30,7 @@ github_username:  alexvaca0
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
